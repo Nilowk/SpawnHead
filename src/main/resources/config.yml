@@ -1,0 +1,15 @@
+heads:
+
+commands:
+  addloc:
+    message:
+      add: "§6l'élément a été ajouter avec succès"
+      edit: "§6l'élément a été modifier avec succès"
+
+  addgroup:
+    message:
+      add: "§6groupe ajouté avec succès"
+      exist: "le group {GROUP} existe déjà"
+
+
+group:

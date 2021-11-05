@@ -1,0 +1,13 @@
+name: SpawnHead
+version: 1.0.00
+author: Nilowk
+main: fr.nilowk.spawnhead.Main
+api-version: 1.16
+commands:
+  addloc:
+    description: ""
+    premission: addloc.use
+
+  addgroup:
+    description: ""
+    premission: addgroup.use
